@@ -1,0 +1,5 @@
+20230731	14:28:10	919842fb-67c5-426b-803e-b31e96383e2f	TypeError: Cannot read properties of undefined (reading 'id')	POST	/accounts/new	undefined
+20230731	14:28:41	784736c7-4bf2-4e90-8484-6119c1bba575	TypeError: Cannot read properties of undefined (reading 'id')	POST	/accounts/new	undefined
+20230731	14:29:13	eeedda60-ca00-461e-b96e-9617d649be33	TypeError: Cannot read properties of undefined (reading 'id')	POST	/accounts/new	undefined
+20230731	14:29:40	5022539d-b9ce-4238-b5a8-318ef2dd7525	TypeError: Cannot read properties of undefined (reading 'id')	POST	/accounts/new	undefined
+20230731	14:32:12	572018db-fd44-42ec-ae27-c7ba14f5159a	SyntaxError: Unexpected token c in JSON at position 16	POST	/accounts/new	undefined
